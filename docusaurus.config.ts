@@ -102,15 +102,15 @@ const config: Config = {
           items: [
             {
               label: "ootr's vpm repository",
-              to: '/docs/vpm',
+              to: '/docs/docs/vpm',
             },
             {
               label: 'Packages',
-              to: '/docs/Packages',
+              to: '/docs/docs/Packages',
             },
             {
               label: 'TextZip',
-              to: '/docs/TextZip',
+              to: '/docs/docs/TextZip',
             },
           ],
         },
