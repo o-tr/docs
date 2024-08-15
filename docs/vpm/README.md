@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # ootr's vpm repository
 ImageTab v0.0.5以前はbooth及びGitHubのリリースから配布を行っていましたが、現在はVPMからのみの配布となっています  
 パッケージを利用される場合はVPM経由の導入をお願いします

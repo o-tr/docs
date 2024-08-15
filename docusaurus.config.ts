@@ -4,7 +4,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 const config: Config = {
   title: '鮪技研',
-  tagline: '自作ギミック用のドキュメントです',
+  tagline: '作ったものを適当に放流しています',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -73,10 +73,19 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          href: '/docs/vpm',
           position: 'left',
-          label: 'Tutorial',
+          label: 'ootr\'s vpm repository',
+        },
+        {
+          href: '/docs/Packages',
+          position: 'left',
+          label: 'Packages',
+        },
+        {
+          href: '/docs/TextZip',
+          position: 'left',
+          label: 'TextZip',
         },
         {
           href: 'https://github.com/o-tr/docs',
@@ -92,8 +101,16 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: "ootr's vpm repository",
+              to: '/docs/vpm',
+            },
+            {
+              label: 'Packages',
+              to: '/docs/Packages',
+            },
+            {
+              label: 'TextZip',
+              to: '/docs/TextZip',
             },
           ],
         },
