@@ -8,10 +8,10 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://o-tr.github.io',
+  url: 'https://docs.ootr.jp',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -73,17 +73,17 @@ const config: Config = {
       },
       items: [
         {
-          href: '/docs/docs/vpm',
+          href: '/docs/vpm',
           position: 'left',
           label: 'ootr\'s vpm repository',
         },
         {
-          href: '/docs/docs/Packages',
+          href: '/docs/Packages',
           position: 'left',
           label: 'Packages',
         },
         {
-          href: '/docs/docs/TextZip',
+          href: '/docs/TextZip',
           position: 'left',
           label: 'TextZip',
         },
@@ -102,15 +102,15 @@ const config: Config = {
           items: [
             {
               label: "ootr's vpm repository",
-              to: '/docs/docs/vpm',
+              to: '/docs/vpm',
             },
             {
               label: 'Packages',
-              to: '/docs/docs/Packages',
+              to: '/docs/Packages',
             },
             {
               label: 'TextZip',
-              to: '/docs/docs/TextZip',
+              to: '/docs/TextZip',
             },
           ],
         },
