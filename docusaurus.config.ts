@@ -73,17 +73,17 @@ const config: Config = {
       },
       items: [
         {
-          href: '/docs/vpm',
+          href: '/docs/docs/vpm',
           position: 'left',
           label: 'ootr\'s vpm repository',
         },
         {
-          href: '/docs/Packages',
+          href: '/docs/docs/Packages',
           position: 'left',
           label: 'Packages',
         },
         {
-          href: '/docs/TextZip',
+          href: '/docs/docs/TextZip',
           position: 'left',
           label: 'TextZip',
         },
