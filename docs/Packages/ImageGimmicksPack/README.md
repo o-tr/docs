@@ -1,3 +1,3 @@
 # ImageGimmicksPack
 パッケージを分割したため、`v0.1.0` 以前の `ImageTab` に相当するものとしてリリースしたパッケージです  
-[ImageTab](/docs/ImageTab/)、[ImageSlide](/docs/ImageScreen/)、[ImageDeviceController](/docs/ImageDeviceController/)、[ImageScreen](/docs/ImageScreen/)と、それを用いたサンプルワールドが含まれています
+[ImageTab](/docs/Packages/ImageTab/)、[ImageSlide](/docs/Packages/ImageScreen/)、[ImageDeviceController](/docs/Packages/ImageDeviceController/)、[ImageScreen](/docs/Packages/ImageScreen/)と、それを用いたサンプルワールドが含まれています

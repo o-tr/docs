@@ -1,7 +1,7 @@
 # Intro
 ## 導入
 パッケージマネージャから `ImageTab` を導入します  
-周辺パッケージも一括で導入されたい場合は [ImageGimmicksPack](/docs/ImageGimmicksPack/) をご利用ください
+周辺パッケージも一括で導入されたい場合は [ImageGimmicksPack](/docs/Packages/ImageGimmicksPack/) をご利用ください
 
 ## プレハブの配置
 `Packages` > `ImageTab` > `Prefabs` から各プレハブをシーンに配置します
@@ -21,4 +21,4 @@ ImageDeviceControllerを別途配置する必要があります
 お疲れ様でした
 
 ## トラブルシュート
-→ [トラブルシュート](/docs/ImageDeviceController/creator/Troubleshoot)
+→ [トラブルシュート](/docs/Packages/ImageDeviceController/creator/Troubleshoot)
