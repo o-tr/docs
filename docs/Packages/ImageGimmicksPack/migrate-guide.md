@@ -27,3 +27,6 @@
   - `ImageTab`、`ImageScreen`
 - プレゼンを行いたい場合
   - `ImageSlide`、`ImageScreen`
+
+## パッケージの導入方法
+[ootr's vpm repository](/docs/vpm/) をVCCに追加することで、パッケージ一覧から各パッケージを追加することができるようになります  
