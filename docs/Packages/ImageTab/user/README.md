@@ -1,6 +1,3 @@
----
-sidebar_position: 2
----
 # ユーザー向け
 ImageTabは画像の表示と投影を行うことができます
 
