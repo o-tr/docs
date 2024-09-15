@@ -88,6 +88,11 @@ const config: Config = {
           label: 'TextZip',
         },
         {
+          href: '/docs/faq',
+          position: 'left',
+          label: 'FAQ',
+        },
+        {
           href: 'https://github.com/o-tr/docs',
           label: 'GitHub',
           position: 'right',
