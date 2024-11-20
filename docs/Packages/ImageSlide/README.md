@@ -4,6 +4,8 @@
 
 ImageSlide は VRChat 向けの高機能なプレゼンテーションツールです
 
+[ImageScreen](/docs/Packages/ImageScreen/) や、 [ImageTab](/docs/Packages/ImageTab/) へ投影することもできます
+
 ## サンプルワールド
 
 https://vrchat.com/home/world/wrld_c6cb0712-e5bd-4c53-a340-4273b866eede
