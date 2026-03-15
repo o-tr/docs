@@ -80,12 +80,12 @@ const config: Config = {
         {
           href: '/docs/Packages',
           position: 'left',
-          label: 'Packages',
+          label: '提供パッケージ群',
         },
         {
-          href: '/docs/TextZip',
+          href: '/docs/CustomContainers',
           position: 'left',
-          label: 'TextZip',
+          label: '独自コンテナフォーマット',
         },
         {
           href: '/docs/faq',
@@ -110,12 +110,12 @@ const config: Config = {
               to: '/docs/vpm',
             },
             {
-              label: 'Packages',
-              to: '/docs/Packages',
+              href: '/docs/Packages',
+              label: '提供パッケージ群',
             },
             {
-              label: 'TextZip',
-              to: '/docs/TextZip',
+              href: '/docs/CustomContainers',
+              label: '独自コンテナフォーマット',
             },
           ],
         },
