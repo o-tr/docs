@@ -110,12 +110,12 @@ const config: Config = {
               to: '/docs/vpm',
             },
             {
-              label: 'Packages',
-              to: '/docs/Packages',
+              href: '/docs/Packages',
+              label: '提供パッケージ群',
             },
             {
-              label: 'TextZip',
-              to: '/docs/TextZip',
+              href: '/docs/CustomContainers',
+              label: '独自コンテナフォーマット',
             },
           ],
         },
